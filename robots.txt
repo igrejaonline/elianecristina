@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /img/
+Allow: /page/
+
+# Caminho para o Sitemap da Eliane Cristina
+Sitemap: https://igrejaonline.github.io/elianecristina/sitemap.xml
